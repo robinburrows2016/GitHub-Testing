@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="GitHub Testing">b1f9b1e74f111300c71dfa218110c79e</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>GitHub Testing Table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_10538_github_tes_github_testing_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_10538_github_tes.user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-12 07:35:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2af9f1e74f111300c71dfa218110c78a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GitHub Testing Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GitHub Testing" source="x_10538_github_tes">b1f9f9e34f111300c71dfa218110c723</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GitHub Testing">b1f9f9e34f111300c71dfa218110c723</sys_scope>
+        <sys_update_name>sys_app_module_2af9f1e74f111300c71dfa218110c78a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-12 07:35:09</sys_updated_on>
+        <timeline_page/>
+        <title>GitHub Testing Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
